@@ -1,0 +1,20 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "first application",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "nirav sherasiya",
+  "license": "ISC"
+}
